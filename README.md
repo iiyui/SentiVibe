@@ -163,7 +163,7 @@ To retrain or experiment with the model:
 
 1. Open Google Colab
 2. Upload the notebook file:
-   `Twitter_Sentiment_Analysis_using_ML.ipynb`
+   `SentiVibe_Pipeline.ipynb`
 3. Execute the notebook cells sequentially
 
 ---
