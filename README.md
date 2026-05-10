@@ -7,7 +7,7 @@ Enterprise-Scale Sentiment Intelligence Pipeline for Social Media Analytics
 
 Machine Learning • NLP • AI Systems Engineering
 
-TweetPulse is a machine learning–driven Natural Language Processing (NLP) system engineered to perform high-volume sentiment classification on social media text. The platform processes raw tweet data, applies optimized text preprocessing and feature engineering pipelines, and predicts sentiment polarity using supervised learning techniques.
+SentiVibe is a machine learning–driven Natural Language Processing (NLP) system engineered to perform high-volume sentiment classification on social media text. The platform processes raw tweet data, applies optimized text preprocessing and feature engineering pipelines, and predicts sentiment polarity using supervised learning techniques.
 
 Built on a dataset of 1.6 million labeled tweets, the system delivers efficient and scalable sentiment inference with strong generalization performance.
 
@@ -17,7 +17,7 @@ Built on a dataset of 1.6 million labeled tweets, the system delivers efficient 
 
 The project is designed to transform unstructured social media conversations into actionable sentiment insights.
 
-Given a tweet as input, TweetPulse performs:
+Given a tweet as input, SentiVibe performs:
 
 - Text normalization
 - Linguistic preprocessing
@@ -63,7 +63,7 @@ The architecture emphasizes lightweight deployment, scalable inference, and prod
 ## Repository Structure
 
 ```text
-TweetPulse/
+SentiVibe/
 │
 ├── Twitter_Sentiment_Analysis_using_ML.ipynb
 ├── trained_model.sav
@@ -133,8 +133,8 @@ The model demonstrates strong generalization performance while maintaining compu
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/TweetPulse.git
-cd TweetPulse
+git clone https://github.com/iiyui/SentiVibe.git
+cd SentiVibe
 ```
 
 Install required dependencies:
