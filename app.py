@@ -154,7 +154,7 @@ def preprocess_text(text: str) -> str:
 @st.cache_resource
 def load_model():
 
-    with open("trained_model.sav", "rb") as file:
+    with open("sentivibe_classifier.pkl", "rb") as file:
         return pickle.load(file)
 
 model = load_model()
